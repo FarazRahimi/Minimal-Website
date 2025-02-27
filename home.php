@@ -62,12 +62,10 @@
 <div id="homepageContent">
   <div class="container">
     <div class="picture">
-      <!-- Replace 'path_to_your_image.jpg' with the actual path to your image file -->
-      <img src="Home1.webp" alt="Inspiring Image">
+      <img src="Home1.webp" alt="Webpage Owner Image">
     </div>
     <div class="inspiration">
       <?php
-        // More philosophical text
         $title = "Seek the Deeper Truth";
         $message = "In the silent whispers of time, we discover the strength to embrace the unknown. Let curiosity and wonder guide you, for within the labyrinth of existence lies the infinite potential of the soul.";
       ?>
